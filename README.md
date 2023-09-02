@@ -24,7 +24,7 @@ Q: What is the total number of malaria cases?
 - Under preprocessing, I explored the structure of the data, had a summary of the data for better understanding.
 - Came up with a plots visual showing the severity of Malaria cases, however, too early to determine the specific regions.
 
-chunks/plotspots.png
+![image](plotspots.png)
 
   
 - A conversion of the coordinates for each African country was done in order to have a more better to have spatial objects used for a better visualization.
