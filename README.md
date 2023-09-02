@@ -22,7 +22,16 @@ Q: What is the total number of malaria cases?
 
 - Initiated the worklfow by installing the necessary R packages and imported the sourced dataset.
 - Under preprocessing, I explored the structure of the data, had a summary of the data for better understanding.
+- Came up with a plots visual showing the severity of Malaria cases, however, too early to determine the specific regions.
+
+![image](https://github.com/mukunjufelicity/Malaria_in_Africa_R_GIS/assets/8385040/dc0d1589-979a-4e79-a747-89b674be3315)
+
+  
 - A conversion of the coordinates for each African country was done in order to have a more better to have spatial objects used for a better visualization.
+
+![image](https://github.com/mukunjufelicity/Malaria_in_Africa_R_GIS/assets/8385040/130aa644-6ba8-4e31-ac4b-8bf22eaee644)
+
+  
 - Did an analysis to get the total number and summmary statistics of malaria cases.
 
 
