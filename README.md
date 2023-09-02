@@ -29,7 +29,7 @@ Q: What is the total number of malaria cases?
   
 - A conversion of the coordinates for each African country was done in order to have a more better to have spatial objects used for a better visualization.
 
-![image](https://github.com/mukunjufelicity/Malaria_in_Africa_R_GIS/assets/8385040/130aa644-6ba8-4e31-ac4b-8bf22eaee644)
+https://github.com/mukunjufelicity/Malaria_in_Africa_R-Map-Analysis/blob/1d8b512cc3b3ca3e1974fec67387ebcf183b5784/chunks/africamap.png
 
   
 - Did an analysis to get the total number and summmary statistics of malaria cases.
