@@ -1,4 +1,4 @@
-# Malaria_in_Africa_R_GIS
+# Malaria_in_Africa-Map Analysis
 
 **OVERVIEW:**
 
