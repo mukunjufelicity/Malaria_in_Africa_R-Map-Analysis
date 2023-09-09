@@ -2,7 +2,7 @@
 
 **OVERVIEW:**
 
-This project's object is to analyze the Spread of Malaria in Africa from a Kaggle sourced dataset. The dataset will have aspects of spatial analysis to understand the distribution and patterns of malaria cases in different regions of Africa.
+This project's objective is to analyze the Spread of Malaria in Africa from a Kaggle sourced dataset. The dataset will have aspects of spatial analysis to understand the distribution and patterns of malaria cases in different regions of Africa.
 
 The dataset will undergo preprocessing and exploratory analysis, which will aid in getting helpful insights. The project's main focus is to show the various countries in Africa that are mostly affected by the spread of Malaria. 
 
